@@ -1,14 +1,36 @@
 {
-    "name" :"Paula",
-    "degree" : "BS CS",
+    "name": "Paula",
+    "degree": "BS CS",
     "courses": [
         {
             "name": "Math",
-            "grade": "80"
+            "grade": "80",
+            "year": 2016,
+            "term": 1
         },
         {
             "name": "Algorithms",
-            "grade": "100"
+            "grade": "100",
+            "year": 2016,
+            "term": 1
+        },
+        {
+            "name": "Psychology",
+            "grade": "74",
+            "year": 2016,
+            "term": 1
+        },
+        {
+            "name": "Astronomy",
+            "grade": "87",
+            "year": 2016,
+            "term": 1
+        },
+        {
+            "name": "Algorithms",
+            "grade": "100",
+            "year": 2016,
+            "term": 1
         }
     ]
 }
